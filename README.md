@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ali</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [prondl](https://prondl.com)
+- 🔭 I’m currently working on [Mstaml](https://mstaml.com)
 
 - 🌱 I’m currently learning **Vuejs, Laravel**
 
@@ -10,9 +10,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-ali-mo](https://www.linkedin.com/in/ibrahim-ali-mo)
 
-- 💬 Ask me about **Angular, JavaScript, PHP**
+- 💬 Ask me about **JavaScript, TypeScript, PHP, Laravel, Nodejs, Angular, Vue.js, React.js**
 
-- 📫 How to reach me **eng.ibrahimmalii@gmail.com**
+- 📫 How to reach me **eng.ibrahimmalii@gmail.com** **+2 01096121030**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1fdFw1w1buYDSktfZH55rX5jmuQ9Wjnu-](https://drive.google.com/drive/u/0/folders/1fdFw1w1buYDSktfZH55rX5jmuQ9Wjnu-)
 
