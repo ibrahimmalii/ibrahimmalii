@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Ali</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on [D&D](https://ncnp.gov.sa/ar)
 
-- 🌱 I’m currently learning **Vuejs, Laravel**
+- 🌱 I’m currently learning **PHP, Laravel, JS, Vuejs**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibrahim-ali-mo](https://www.linkedin.com/in/ibrahimmalii
 
