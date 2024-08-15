@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vuejs, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibrahim-ali-mo](https://www.linkedin.com/in/ibrahim-ali-mo)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibrahim-ali-mo](https://www.linkedin.com/in/ibrahimmalii
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-ali-mo](https://www.linkedin.com/in/ibrahim-ali-mo)
 
