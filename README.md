@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ali</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [D&D](https://ncnp.gov.sa/ar)
+- 🔭 I’m currently working on [Petroapp](https://petroapp.com/)
 
 - 🌱 I’m currently learning **PHP, Laravel, JS, Vuejs**
 
